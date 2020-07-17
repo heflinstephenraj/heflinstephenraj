@@ -1,6 +1,6 @@
-### Hi there 👋
-## IBM Watson developer | ML Practitioner | YouTuber | Blogger
-# YouTube Channel https://www.youtube.com/channel/UCL4lMBulKND-IchAp8Om7UQ
+## Hi there 👋
+### IBM Watson developer | ML Practitioner | YouTuber | Blogger
+### YouTube Channel https://www.youtube.com/channel/UCL4lMBulKND-IchAp8Om7UQ
 
 <!--
 **heflinstephenraj/heflinstephenraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
