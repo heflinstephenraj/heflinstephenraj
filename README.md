@@ -1,6 +1,6 @@
 # Hi techies 👋
 ## Asst. Manager @ DevCommuntyIN | IBM Watson developer | ML Practitioner | YouTuber | Blogger
-### YouTube Channel: https://www.youtube.com/channel/UCL4lMBulKND-IchAp8Om7UQ
+### YouTube Channel: https://www.youtube.com/heflindev
 ### Portfolio Website: https://www.heflin.dev/
 ### Blogs: https://www.heflin.dev/blog
 ### Resource person: https://www.heflin.dev/resource-person
