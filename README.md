@@ -1,5 +1,5 @@
 # Hi techies 👋
-## Asst. Manager @ DevCommuntyIN | IBM Watson developer | ML Practitioner | YouTuber | Blogger
+## Data Analyst @ Webnexs | IBM Watson developer | ML Practitioner | YouTuber | Blogger
 ### YouTube Channel: https://www.youtube.com/heflindev
 ### Portfolio Website: https://www.heflin.dev/
 ### Blogs: https://www.heflin.dev/blog
