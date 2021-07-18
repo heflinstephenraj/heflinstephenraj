@@ -1,6 +1,6 @@
 # Hi techies 👋
 ## Data Analyst @ Webnexs | IBM Watson developer | ML Practitioner | YouTuber | Blogger
-### YouTube Channel: https://www.youtube.com/heflindev
+### YouTube Channel: https://www.heflin.dev/youtube
 ### Portfolio Website: https://www.heflin.dev/
 ### Blogs: https://www.heflin.dev/blog
 ### Resource person: https://www.heflin.dev/resource-person
