@@ -1,5 +1,5 @@
 # Hi techies 👋
-## Data Analyst @ Webnexs | IBM Watson developer | ML Practitioner | YouTuber | Blogger
+## NLP @ ZOHO | Passionate AI developer
 ### YouTube Channel: https://www.heflin.dev/youtube
 ### Portfolio Website: https://www.heflin.dev/
 ### Blogs: https://www.heflin.dev/blog
